@@ -1,0 +1,501 @@
+name,cost_tier,calories_100g,protein_100g,carbs_100g,fat_100g,allergy_tags,disease_tags
+Lamb,medium,134,23,1,8,none,high_protein;high_iron
+White Bread,high,287,8,71,6,gluten,high_glycemic
+Organic Tomato,high,48,4,10,1,none,anti_inflammatory;low_sodium;low_glycemic
+Brown Rice,low,328,3,32,5,none,diabetes_friendly;low_glycemic
+Cashews,low,669,5,17,62,nuts,anti_inflammatory;high_protein
+Yogurt,low,104,15,4,9,dairy,high_protein
+Edamame,high,130,13,23,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Mozzarella Cheese,low,148,4,7,25,dairy,high_protein
+Tofu,high,134,12,26,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Coconut Oil,medium,742,18,20,81,nuts,anti_inflammatory;high_protein
+Canned Spinach,low,16,4,9,1,none,anti_inflammatory;low_glycemic
+Cheddar Cheese,medium,87,23,3,21,dairy,high_protein
+Canned Cod,low,176,28,0,20,shellfish,anti_inflammatory;omega_3;high_protein
+Bacon,medium,133,26,0,25,none,high_protein;high_iron
+Canned Tuna,low,228,24,1,7,shellfish,anti_inflammatory;omega_3;high_protein
+Yogurt,medium,300,7,8,4,dairy,high_protein
+Cod,medium,181,19,0,7,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Lime,low,42,2,21,2,none,anti_inflammatory;low_glycemic
+Tuna,medium,109,25,0,15,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Trout,low,225,28,1,11,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Pear,low,62,0,25,3,none,anti_inflammatory;low_glycemic
+Quinoa,low,244,6,25,6,none,diabetes_friendly;low_glycemic
+Lamb,medium,229,17,2,11,none,high_protein;high_iron
+Couscous,medium,245,14,33,5,gluten,high_glycemic;low_glycemic
+Canned Spinach,low,18,4,2,0,none,anti_inflammatory;low_glycemic
+Organic Asparagus,high,35,5,4,0,none,anti_inflammatory;low_sodium;low_glycemic
+Black Beans,high,119,8,17,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Tilapia,medium,172,19,1,8,shellfish,anti_inflammatory;omega_3;high_protein
+White Bread,medium,318,7,46,4,gluten,high_glycemic
+Flax Seeds,low,676,8,11,45,nuts,anti_inflammatory;high_protein
+Milk,low,361,6,5,31,dairy,high_protein
+Spinach,medium,34,4,10,0,none,anti_inflammatory;low_sodium;low_glycemic
+Sardines,high,153,30,0,19,shellfish,anti_inflammatory;omega_3;high_protein
+Bell Pepper,medium,38,4,11,1,none,anti_inflammatory;low_sodium;low_glycemic
+Flax Seeds,medium,883,23,12,88,nuts,anti_inflammatory;high_protein
+Chicken Breast,medium,280,17,2,8,none,high_protein;high_iron
+Sausage,medium,125,17,1,18,none,high_protein;high_iron
+Sausage,low,298,29,1,18,none,high_protein;high_iron
+Pasta,high,328,3,52,6,gluten,high_glycemic;low_glycemic
+Organic Onion,high,20,3,5,1,none,anti_inflammatory;low_sodium;low_glycemic
+Lettuce,medium,11,5,10,1,none,anti_inflammatory;low_sodium;low_glycemic
+Milk,high,199,11,3,15,dairy,high_protein
+Canned Avocado,low,94,1,19,2,none,anti_inflammatory;low_glycemic
+Tuna,high,133,23,1,16,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Lemon,high,97,2,13,3,none,anti_inflammatory;low_glycemic
+Couscous,medium,358,5,47,1,gluten,high_glycemic;low_glycemic
+Canned Mackerel,low,127,18,0,12,shellfish,anti_inflammatory;omega_3;high_protein
+Greek Yogurt,medium,384,16,3,2,dairy,high_protein
+Greek Yogurt,medium,388,12,3,15,dairy,high_protein
+Organic Mushroom,high,59,4,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Salmon,low,215,26,0,20,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Spinach,low,43,5,2,0,none,anti_inflammatory;low_glycemic
+Cottage Cheese,high,396,10,8,20,dairy,high_protein
+Organic Broccoli,high,12,4,8,1,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Sardines,low,140,30,0,5,shellfish,anti_inflammatory;omega_3;high_protein
+Edamame,medium,129,9,15,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Brown Rice,high,273,5,31,3,none,diabetes_friendly;low_glycemic
+Canned Pinto Beans,low,169,17,25,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Lettuce,medium,10,1,4,1,none,anti_inflammatory;low_sodium;low_glycemic
+Pinto Beans,high,117,18,25,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Watermelon,medium,64,0,10,0,none,anti_inflammatory;low_glycemic
+Oats,low,144,3,46,6,none,diabetes_friendly;low_glycemic
+Strawberries,medium,82,0,13,1,none,anti_inflammatory;low_glycemic
+Grapes,medium,65,1,18,2,none,anti_inflammatory;low_glycemic
+Canned Tofu,low,102,12,16,3,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Shrimp,medium,123,21,1,11,shellfish,anti_inflammatory;omega_3;high_protein
+Milk,medium,170,13,6,24,dairy,high_protein
+Organic Mango,high,73,0,15,1,none,anti_inflammatory;low_glycemic
+Walnuts,high,763,5,13,57,nuts,anti_inflammatory;high_protein
+Barley,low,179,12,58,2,gluten,high_glycemic;low_glycemic
+Yogurt,high,95,22,3,16,dairy,high_protein
+Coconut Oil,low,665,19,27,54,nuts,anti_inflammatory;high_protein
+Pork Chop,low,142,25,0,5,none,high_protein;high_iron
+Organic Chicken Breast,high,143,23,0,19,none,high_protein;high_iron
+Sausage,medium,214,29,0,23,none,high_protein;high_iron
+Chia Seeds,high,604,7,25,47,nuts,anti_inflammatory;high_protein
+Cottage Cheese,low,363,25,9,30,dairy,high_protein
+Mozzarella Cheese,low,120,20,5,18,dairy,high_protein
+Organic Steak,high,205,24,0,19,none,high_protein;high_iron
+Kidney Beans,high,105,15,21,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Quinoa,low,282,13,63,2,none,diabetes_friendly;low_glycemic
+Mozzarella Cheese,low,99,6,6,26,dairy,high_protein
+Canned Bell Pepper,low,44,2,7,1,none,anti_inflammatory;low_glycemic
+Kidney Beans,medium,119,18,23,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Cauliflower,high,13,1,5,0,none,anti_inflammatory;low_sodium;low_glycemic
+Lentils,high,148,17,25,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Peanuts,low,621,19,14,95,nuts,anti_inflammatory;high_protein
+Steak,low,173,28,2,22,none,high_protein;high_iron
+Black Beans,high,147,12,16,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Cod,high,201,25,0,14,shellfish,anti_inflammatory;omega_3;high_protein
+Coconut Oil,low,814,22,21,94,nuts,anti_inflammatory;high_protein
+Orange,medium,44,2,16,3,none,anti_inflammatory;low_glycemic
+Tilapia,high,100,20,1,5,shellfish,anti_inflammatory;omega_3;high_protein
+Tofu,high,128,8,30,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Broccoli,high,54,3,9,1,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Chickpeas,low,104,12,25,3,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Garlic,high,45,4,3,1,none,anti_inflammatory;low_sodium;low_glycemic
+Organic Grapes,high,47,1,10,1,none,anti_inflammatory;low_glycemic
+Mango,medium,52,1,17,0,none,anti_inflammatory;low_glycemic
+Tofu,high,152,9,28,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Lime,high,52,1,22,3,none,anti_inflammatory;low_glycemic
+Brown Rice,high,273,12,59,2,none,diabetes_friendly;low_glycemic
+Black Beans,medium,134,9,25,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Edamame,low,142,14,19,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Pinto Beans,medium,100,15,21,4,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Cucumber,high,29,3,4,1,none,anti_inflammatory;low_sodium;low_glycemic
+Ground Beef,medium,238,15,0,15,none,high_protein;high_iron
+Canned Pineapple,low,88,0,16,0,none,anti_inflammatory;low_glycemic
+Canned Trout,low,216,18,0,7,shellfish,anti_inflammatory;omega_3;high_protein
+Tuna,medium,193,19,1,2,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Cauliflower,high,43,3,5,0,none,anti_inflammatory;low_sodium;low_glycemic
+Tofu,high,142,10,19,8,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Cod,low,148,27,0,4,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Salmon,low,190,25,1,16,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Watermelon,low,63,0,22,1,none,anti_inflammatory;low_glycemic
+Cottage Cheese,high,227,6,3,33,dairy,high_protein
+Tilapia,medium,100,23,0,19,shellfish,anti_inflammatory;omega_3;high_protein
+White Rice,medium,183,14,61,3,gluten,high_glycemic
+Cucumber,medium,43,4,7,1,none,anti_inflammatory;low_sodium;low_glycemic
+Chickpeas,medium,131,17,20,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Shrimp,medium,190,28,0,19,shellfish,anti_inflammatory;omega_3;high_protein
+Sausage,low,291,16,1,16,none,high_protein;high_iron
+Lentils,medium,105,18,26,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Asparagus,high,46,2,6,1,none,anti_inflammatory;low_sodium;low_glycemic
+Shrimp,medium,136,23,0,3,shellfish,anti_inflammatory;omega_3;high_protein
+Garlic,medium,17,2,5,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Tempeh,low,114,18,29,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Brown Rice,low,120,14,80,1,none,diabetes_friendly;low_glycemic
+Organic Ground Beef,high,126,16,0,22,none,high_protein;high_iron
+Brown Rice,high,328,13,65,5,none,diabetes_friendly;low_glycemic
+Strawberries,medium,58,2,19,0,none,anti_inflammatory;low_glycemic
+Couscous,high,323,9,61,5,gluten,high_glycemic;low_glycemic
+Greek Yogurt,medium,99,5,10,30,dairy,high_protein
+Canned Trout,low,188,20,1,12,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Bacon,high,123,21,2,19,none,high_protein;high_iron
+Tilapia,medium,186,25,1,8,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Mango,high,65,2,19,0,none,anti_inflammatory;low_glycemic
+Broccoli,medium,28,2,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Milk,high,149,12,4,10,dairy,high_protein
+Canned Celery,low,52,2,3,0,none,anti_inflammatory;low_glycemic
+Cod,medium,106,18,1,18,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Grapes,low,55,2,19,1,none,anti_inflammatory;low_glycemic
+Edamame,medium,169,15,16,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Chickpeas,high,159,14,28,8,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Lamb,low,180,26,2,11,none,high_protein;high_iron
+White Bread,low,178,14,54,5,gluten,high_glycemic
+Milk,high,367,12,7,1,dairy,high_protein
+Milk,medium,106,24,5,21,dairy,high_protein
+Watermelon,medium,49,0,17,0,none,anti_inflammatory;low_glycemic
+Organic Tomato,high,36,5,10,1,none,anti_inflammatory;low_sodium;low_glycemic
+Mushroom,medium,13,3,8,1,none,anti_inflammatory;low_sodium;low_glycemic
+Tofu,medium,179,11,30,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Barley,high,137,13,39,4,gluten,high_glycemic;low_glycemic
+Canned Broccoli,low,31,3,8,0,none,anti_inflammatory;low_glycemic
+Edamame,medium,171,17,18,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Butter,medium,290,21,6,12,dairy,high_protein
+Trout,high,157,27,0,12,shellfish,anti_inflammatory;omega_3;high_protein
+Quinoa,medium,230,3,29,2,none,diabetes_friendly;low_glycemic
+Kale,medium,28,2,6,0,none,anti_inflammatory;low_sodium;low_glycemic
+Butter,low,243,7,8,12,dairy,high_protein
+Tofu,high,127,10,29,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Tofu,low,115,12,20,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Olive Oil,low,843,14,21,59,nuts,anti_inflammatory;high_protein
+Shrimp,medium,120,22,0,3,shellfish,anti_inflammatory;omega_3;high_protein
+Sardines,high,157,20,1,19,shellfish,anti_inflammatory;omega_3;high_protein
+Shrimp,high,226,30,1,5,shellfish,anti_inflammatory;omega_3;high_protein
+Grapes,medium,71,1,22,3,none,anti_inflammatory;low_glycemic
+Canned Kale,low,40,3,3,1,none,anti_inflammatory;low_glycemic
+Canned Mackerel,low,212,19,1,4,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Lime,high,69,1,21,0,none,anti_inflammatory;low_glycemic
+Chia Seeds,high,631,22,20,99,nuts,anti_inflammatory;high_protein
+Oats,medium,195,14,60,6,none,diabetes_friendly;low_glycemic
+Canned Tofu,low,164,16,24,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Lemon,high,84,1,14,0,none,anti_inflammatory;low_glycemic
+Flax Seeds,low,599,21,13,85,nuts,anti_inflammatory;high_protein
+Butter,medium,370,4,5,25,dairy,high_protein
+Garlic,medium,32,2,12,1,none,anti_inflammatory;low_sodium;low_glycemic
+Lemon,medium,55,2,18,3,none,anti_inflammatory;low_glycemic
+Organic Broccoli,high,12,2,6,1,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Black Beans,low,168,15,20,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Barley,medium,284,8,60,2,gluten,high_glycemic;low_glycemic
+Yogurt,low,221,12,3,23,dairy,high_protein
+Barley,low,275,10,45,2,gluten,high_glycemic;low_glycemic
+Tempeh,high,173,15,26,3,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Cabbage,high,47,2,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Chia Seeds,medium,813,20,22,49,nuts,anti_inflammatory;high_protein
+Flax Seeds,high,724,17,11,51,nuts,anti_inflammatory;high_protein
+Canned Mushroom,low,14,1,9,0,none,anti_inflammatory;low_glycemic
+Greek Yogurt,low,88,12,4,28,dairy,high_protein
+Almonds,medium,739,22,23,66,nuts,anti_inflammatory;high_protein
+Sardines,high,176,25,1,15,shellfish,anti_inflammatory;omega_3;high_protein
+Butter,medium,298,3,9,34,dairy,high_protein
+Tuna,high,100,24,0,10,shellfish,anti_inflammatory;omega_3;high_protein
+Black Beans,high,145,12,21,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Chia Seeds,low,766,18,10,93,nuts,anti_inflammatory;high_protein
+Mozzarella Cheese,low,53,18,4,24,dairy,high_protein
+Organic Zucchini,high,21,5,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Greek Yogurt,high,155,7,5,3,dairy,high_protein
+Butter,low,327,21,5,19,dairy,high_protein
+Canned Tofu,low,142,14,25,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Shrimp,medium,131,24,1,12,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Strawberries,high,89,0,14,0,none,anti_inflammatory;low_glycemic
+Organic Grapes,high,83,0,12,0,none,anti_inflammatory;low_glycemic
+Organic Celery,high,17,5,8,1,none,anti_inflammatory;low_sodium;low_glycemic
+Pistachios,low,806,5,26,56,nuts,anti_inflammatory;high_protein
+Millet,medium,258,9,58,6,gluten,high_glycemic;low_glycemic
+Organic Avocado,high,53,0,12,3,none,anti_inflammatory;low_glycemic
+Mackerel,high,165,20,0,14,shellfish,anti_inflammatory;omega_3;high_protein
+Millet,high,148,3,51,6,gluten,high_glycemic;low_glycemic
+Celery,medium,52,2,10,0,none,anti_inflammatory;low_sodium;low_glycemic
+Walnuts,high,809,6,16,65,nuts,anti_inflammatory;high_protein
+Greek Yogurt,high,355,23,9,26,dairy,high_protein
+Cottage Cheese,high,247,8,6,3,dairy,high_protein
+Canned Spinach,low,47,5,8,0,none,anti_inflammatory;low_glycemic
+Chicken Breast,medium,277,26,1,16,none,high_protein;high_iron
+Almonds,medium,661,22,21,58,nuts,anti_inflammatory;high_protein
+Walnuts,low,555,24,28,83,nuts,anti_inflammatory;high_protein
+Celery,medium,36,3,12,0,none,anti_inflammatory;low_sodium;low_glycemic
+Greek Yogurt,low,180,5,4,12,dairy,high_protein
+Cabbage,medium,57,5,8,1,none,anti_inflammatory;low_sodium;low_glycemic
+Kidney Beans,high,161,12,27,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Greek Yogurt,high,343,13,6,19,dairy,high_protein
+Bacon,medium,203,17,2,6,none,high_protein;high_iron
+Quinoa,low,175,11,28,3,none,diabetes_friendly;low_glycemic
+Canned Kidney Beans,low,103,8,28,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Spinach,low,60,2,7,1,none,anti_inflammatory;low_glycemic
+Lentils,high,155,9,28,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Milk,high,267,11,6,22,dairy,high_protein
+Cheddar Cheese,high,270,12,8,34,dairy,high_protein
+Pork Chop,medium,122,25,1,6,none,high_protein;high_iron
+Canned Sardines,low,107,30,0,5,shellfish,anti_inflammatory;omega_3;high_protein
+Whole Wheat Bread,low,349,12,63,4,gluten,high_glycemic;low_glycemic
+Sardines,high,146,26,1,15,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Asparagus,low,38,1,4,0,none,anti_inflammatory;low_glycemic
+Cod,medium,153,28,1,2,shellfish,anti_inflammatory;omega_3;high_protein
+Milk,low,250,6,10,34,dairy,high_protein
+Organic Grapes,high,54,0,13,3,none,anti_inflammatory;low_glycemic
+Pasta,low,314,10,58,4,gluten,high_glycemic;low_glycemic
+Edamame,medium,180,16,19,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Bell Pepper,low,33,1,9,1,none,anti_inflammatory;low_glycemic
+Brown Rice,low,124,13,48,1,none,diabetes_friendly;low_glycemic
+Organic Ground Beef,high,169,21,1,24,none,high_protein;high_iron
+White Bread,medium,357,12,76,2,gluten,high_glycemic
+Cheddar Cheese,high,212,12,3,5,dairy,high_protein
+Cottage Cheese,medium,263,13,6,4,dairy,high_protein
+Organic Lamb,high,187,30,2,11,none,high_protein;high_iron
+Canned Salmon,low,230,21,1,10,shellfish,anti_inflammatory;omega_3;high_protein
+Milk,high,186,23,6,6,dairy,high_protein
+Mozzarella Cheese,low,47,19,3,33,dairy,high_protein
+Tilapia,medium,149,18,0,15,shellfish,anti_inflammatory;omega_3;high_protein
+Salmon,high,243,29,1,12,shellfish,anti_inflammatory;omega_3;high_protein
+Peanuts,high,779,5,17,76,nuts,anti_inflammatory;high_protein
+Whole Wheat Bread,high,367,15,70,3,gluten,high_glycemic;low_glycemic
+Cheddar Cheese,low,367,12,4,14,dairy,high_protein
+Cashews,medium,739,19,27,67,nuts,anti_inflammatory;high_protein
+Brown Rice,high,367,12,76,6,none,diabetes_friendly;low_glycemic
+Tilapia,medium,198,27,1,10,shellfish,anti_inflammatory;omega_3;high_protein
+Edamame,high,153,15,22,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Ground Beef,medium,157,15,0,6,none,high_protein;high_iron
+Cashews,low,810,19,10,91,nuts,anti_inflammatory;high_protein
+Chia Seeds,low,751,14,21,50,nuts,anti_inflammatory;high_protein
+Ground Beef,medium,253,17,1,19,none,high_protein;high_iron
+Organic Turkey,high,256,17,0,6,none,high_protein;high_iron
+Organic Ground Beef,high,231,19,1,11,none,high_protein;high_iron
+Millet,low,128,13,79,2,gluten,high_glycemic;low_glycemic
+Canned Lentils,low,168,18,22,8,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Couscous,low,208,10,68,1,gluten,high_glycemic;low_glycemic
+Organic Sausage,high,225,19,0,21,none,high_protein;high_iron
+Strawberries,medium,61,2,24,2,none,anti_inflammatory;low_glycemic
+Edamame,medium,107,10,19,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Flax Seeds,low,664,25,14,75,nuts,anti_inflammatory;high_protein
+Coconut Oil,medium,875,8,22,50,nuts,anti_inflammatory;high_protein
+Butter,high,129,8,8,25,dairy,high_protein
+Organic Turkey,high,278,19,1,25,none,high_protein;high_iron
+Pasta,low,212,11,74,7,gluten,high_glycemic;low_glycemic
+Canned Tofu,low,138,16,18,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Mackerel,low,103,26,1,18,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Asparagus,low,24,3,4,1,none,anti_inflammatory;low_glycemic
+Peanuts,low,554,25,22,72,nuts,anti_inflammatory;high_protein
+Edamame,high,174,8,21,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Pinto Beans,medium,114,10,18,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Trout,medium,105,27,0,2,shellfish,anti_inflammatory;omega_3;high_protein
+Lentils,medium,145,9,15,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Black Beans,medium,163,14,20,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Sausage,high,240,24,1,6,none,high_protein;high_iron
+Steak,low,225,19,1,19,none,high_protein;high_iron
+Apple,medium,56,1,12,3,none,anti_inflammatory;low_glycemic
+Orange,medium,90,1,17,0,none,anti_inflammatory;low_glycemic
+Whole Wheat Bread,low,134,13,77,1,gluten,high_glycemic;low_glycemic
+Butter,low,169,8,4,17,dairy,high_protein
+Blueberries,medium,82,2,20,3,none,anti_inflammatory;low_glycemic
+Strawberries,medium,44,0,12,0,none,anti_inflammatory;low_glycemic
+Sausage,medium,124,15,1,17,none,high_protein;high_iron
+Tilapia,medium,215,21,1,5,shellfish,anti_inflammatory;omega_3;high_protein
+Lentils,high,107,10,26,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Bacon,high,162,22,2,7,none,high_protein;high_iron
+Milk,low,104,20,5,15,dairy,high_protein
+Ground Beef,medium,202,28,1,6,none,high_protein;high_iron
+Organic Turkey,high,223,20,2,20,none,high_protein;high_iron
+Cod,medium,177,29,0,20,shellfish,anti_inflammatory;omega_3;high_protein
+Butter,low,46,9,7,11,dairy,high_protein
+Canned Orange,low,98,0,13,0,none,anti_inflammatory;low_glycemic
+Chickpeas,medium,127,14,17,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Chickpeas,high,172,18,24,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Trout,medium,145,29,0,7,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Tofu,low,155,8,17,3,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Pear,medium,51,0,13,3,none,anti_inflammatory;low_glycemic
+Pinto Beans,medium,163,17,25,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Cashews,low,772,21,10,78,nuts,anti_inflammatory;high_protein
+Canned Peach,low,42,2,15,0,none,anti_inflammatory;low_glycemic
+Pinto Beans,medium,134,12,22,4,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Mango,low,67,1,14,1,none,anti_inflammatory;low_glycemic
+Butter,high,140,13,5,32,dairy,high_protein
+Greek Yogurt,high,50,22,10,11,dairy,high_protein
+Organic Chicken Breast,high,145,21,0,17,none,high_protein;high_iron
+Millet,high,348,9,39,5,gluten,high_glycemic;low_glycemic
+White Rice,high,176,8,48,7,gluten,high_glycemic
+Turkey,low,246,27,2,21,none,high_protein;high_iron
+Canned Tilapia,low,137,24,1,19,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Lemon,low,74,1,21,3,none,anti_inflammatory;low_glycemic
+Strawberries,medium,99,0,20,3,none,anti_inflammatory;low_glycemic
+Canned Celery,low,44,3,10,0,none,anti_inflammatory;low_glycemic
+Ground Beef,medium,205,24,1,20,none,high_protein;high_iron
+Sausage,low,270,21,2,24,none,high_protein;high_iron
+Sardines,high,165,20,1,17,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Edamame,low,178,9,25,4,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Salmon,medium,236,28,0,19,shellfish,anti_inflammatory;omega_3;high_protein
+Couscous,high,306,9,47,2,gluten,high_glycemic;low_glycemic
+Flax Seeds,high,821,6,11,94,nuts,anti_inflammatory;high_protein
+Almonds,high,877,5,18,78,nuts,anti_inflammatory;high_protein
+Cheddar Cheese,medium,149,22,5,17,dairy,high_protein
+Organic Lamb,high,209,23,0,21,none,high_protein;high_iron
+Steak,low,201,27,2,23,none,high_protein;high_iron
+Canned Mango,low,79,0,18,3,none,anti_inflammatory;low_glycemic
+Ground Beef,low,261,19,1,15,none,high_protein;high_iron
+Yogurt,low,142,14,3,28,dairy,high_protein
+Lettuce,medium,13,5,4,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Edamame,low,149,9,20,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Salmon,medium,189,20,0,3,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Lime,low,93,2,10,1,none,anti_inflammatory;low_glycemic
+Sardines,medium,227,30,0,11,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Mackerel,low,140,25,0,20,shellfish,anti_inflammatory;omega_3;high_protein
+Zucchini,medium,42,2,11,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Pinto Beans,low,180,13,19,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Turkey,high,124,25,1,21,none,high_protein;high_iron
+Canned Lemon,low,98,0,19,3,none,anti_inflammatory;low_glycemic
+White Bread,low,170,8,53,5,gluten,high_glycemic
+Yogurt,low,162,23,5,29,dairy,high_protein
+Brown Rice,low,204,6,49,1,none,diabetes_friendly;low_glycemic
+Millet,high,330,5,27,6,gluten,high_glycemic;low_glycemic
+Brown Rice,high,201,2,52,5,none,diabetes_friendly;low_glycemic
+Cheddar Cheese,high,145,25,3,35,dairy,high_protein
+Whole Wheat Bread,high,314,14,30,3,gluten,high_glycemic;low_glycemic
+Lime,medium,79,1,18,0,none,anti_inflammatory;low_glycemic
+Canned Celery,low,22,2,11,0,none,anti_inflammatory;low_glycemic
+Cheddar Cheese,medium,163,25,6,20,dairy,high_protein
+Canned Asparagus,low,53,4,2,0,none,anti_inflammatory;low_glycemic
+Barley,high,289,14,60,7,gluten,high_glycemic;low_glycemic
+Pinto Beans,medium,142,10,19,4,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Asparagus,high,45,3,9,0,none,anti_inflammatory;low_sodium;low_glycemic
+Tilapia,high,161,23,1,11,shellfish,anti_inflammatory;omega_3;high_protein
+Yogurt,high,99,25,8,25,dairy,high_protein
+Milk,medium,225,24,6,33,dairy,high_protein
+Sardines,high,215,27,0,16,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Mushroom,high,14,5,11,1,none,anti_inflammatory;low_sodium;low_glycemic
+White Rice,high,164,8,65,2,gluten,high_glycemic
+Mackerel,medium,160,25,1,4,shellfish,anti_inflammatory;omega_3;high_protein
+Milk,high,53,23,9,8,dairy,high_protein
+Salmon,high,158,22,0,15,shellfish,anti_inflammatory;omega_3;high_protein
+Edamame,medium,121,17,27,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Salmon,high,234,24,1,15,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Chicken Breast,high,206,30,0,11,none,high_protein;high_iron
+Barley,high,198,10,65,5,gluten,high_glycemic;low_glycemic
+Pear,medium,57,0,10,2,none,anti_inflammatory;low_glycemic
+Organic Apple,high,79,1,15,1,none,anti_inflammatory;low_glycemic
+Cod,medium,136,26,1,15,shellfish,anti_inflammatory;omega_3;high_protein
+Butter,medium,106,22,6,22,dairy,high_protein
+Canned Tofu,low,172,16,24,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Lemon,high,84,0,25,0,none,anti_inflammatory;low_glycemic
+Canned Grapes,low,68,1,25,2,none,anti_inflammatory;low_glycemic
+Organic Celery,high,32,4,6,1,none,anti_inflammatory;low_sodium;low_glycemic
+Sausage,low,260,26,1,11,none,high_protein;high_iron
+Trout,high,241,26,1,10,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Lentils,low,158,16,30,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Cheddar Cheese,high,49,18,6,7,dairy,high_protein
+Bacon,low,182,16,0,18,none,high_protein;high_iron
+Spinach,medium,46,1,8,0,none,anti_inflammatory;low_sodium;low_glycemic
+Edamame,medium,127,11,15,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Pasta,high,307,15,71,2,gluten,high_glycemic;low_glycemic
+Canned Kidney Beans,low,113,15,20,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Yogurt,low,398,21,10,30,dairy,high_protein
+Organic Sausage,high,270,20,0,14,none,high_protein;high_iron
+Kidney Beans,medium,109,10,20,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Shrimp,medium,191,28,1,8,shellfish,anti_inflammatory;omega_3;high_protein
+Tomato,medium,50,5,10,0,none,anti_inflammatory;low_sodium;low_glycemic
+Salmon,medium,185,20,0,2,shellfish,anti_inflammatory;omega_3;high_protein
+Pasta,high,239,11,71,7,gluten,high_glycemic;low_glycemic
+Canned Apple,low,67,0,21,3,none,anti_inflammatory;low_glycemic
+Tilapia,medium,248,21,0,14,shellfish,anti_inflammatory;omega_3;high_protein
+Pistachios,low,755,9,29,98,nuts,anti_inflammatory;high_protein
+Cottage Cheese,high,167,22,9,13,dairy,high_protein
+Cashews,medium,801,8,21,46,nuts,anti_inflammatory;high_protein
+Millet,medium,257,5,32,2,gluten,high_glycemic;low_glycemic
+Organic Avocado,high,85,0,14,0,none,anti_inflammatory;low_glycemic
+Lime,medium,65,0,20,3,none,anti_inflammatory;low_glycemic
+Pineapple,medium,89,1,21,2,none,anti_inflammatory;low_glycemic
+Yogurt,high,147,10,5,2,dairy,high_protein
+Pistachios,high,559,17,23,80,nuts,anti_inflammatory;high_protein
+Organic Mango,high,67,2,12,2,none,anti_inflammatory;low_glycemic
+Yogurt,low,60,11,5,9,dairy,high_protein
+Canned Tofu,low,117,12,30,4,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Quinoa,high,347,6,56,5,none,diabetes_friendly;low_glycemic
+Organic Pear,high,54,0,10,3,none,anti_inflammatory;low_glycemic
+Couscous,low,183,7,68,7,gluten,high_glycemic;low_glycemic
+Coconut Oil,high,835,22,16,86,nuts,anti_inflammatory;high_protein
+Oats,high,165,8,40,6,none,diabetes_friendly;low_glycemic
+Organic Apple,high,71,2,19,3,none,anti_inflammatory;low_glycemic
+Canned Broccoli,low,24,3,5,1,none,anti_inflammatory;low_glycemic
+Millet,medium,311,5,59,3,gluten,high_glycemic;low_glycemic
+Organic Cucumber,high,50,4,3,1,none,anti_inflammatory;low_sodium;low_glycemic
+Tofu,high,179,16,16,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Organic Pork Chop,high,279,24,2,25,none,high_protein;high_iron
+Millet,medium,142,15,50,3,gluten,high_glycemic;low_glycemic
+Tilapia,medium,173,21,1,12,shellfish,anti_inflammatory;omega_3;high_protein
+Cucumber,medium,35,3,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Tuna,low,175,23,0,4,shellfish,anti_inflammatory;omega_3;high_protein
+Pear,medium,48,0,12,0,none,anti_inflammatory;low_glycemic
+Organic Apple,high,86,1,20,3,none,anti_inflammatory;low_glycemic
+Cashews,low,849,14,19,70,nuts,anti_inflammatory;high_protein
+Chickpeas,medium,164,11,19,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Oats,medium,307,12,72,5,none,diabetes_friendly;low_glycemic
+Canned Mango,low,48,0,16,3,none,anti_inflammatory;low_glycemic
+Sausage,medium,249,23,1,22,none,high_protein;high_iron
+Trout,high,215,23,0,18,shellfish,anti_inflammatory;omega_3;high_protein
+Bacon,low,289,28,2,14,none,high_protein;high_iron
+Organic Cauliflower,high,21,4,11,0,none,anti_inflammatory;low_sodium;low_glycemic
+Organic Cucumber,high,48,3,11,1,none,anti_inflammatory;low_sodium;low_glycemic
+Tofu,high,155,14,25,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Mango,medium,83,1,25,1,none,anti_inflammatory;low_glycemic
+Watermelon,medium,51,0,10,3,none,anti_inflammatory;low_glycemic
+White Bread,medium,338,13,25,3,gluten,high_glycemic
+Barley,high,295,15,37,6,gluten,high_glycemic;low_glycemic
+Tofu,medium,100,15,17,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Yogurt,medium,222,5,3,33,dairy,high_protein
+Organic Pineapple,high,62,2,12,2,none,anti_inflammatory;low_glycemic
+Canned Kale,low,28,1,6,1,none,anti_inflammatory;low_glycemic
+Olive Oil,high,785,8,16,56,nuts,anti_inflammatory;high_protein
+White Rice,low,296,12,79,6,gluten,high_glycemic
+Canned Pinto Beans,low,114,11,21,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Coconut Oil,low,695,19,14,92,nuts,anti_inflammatory;high_protein
+White Rice,low,266,8,43,7,gluten,high_glycemic
+Peanuts,high,623,5,21,92,nuts,anti_inflammatory;high_protein
+Canned Cod,low,217,25,0,7,shellfish,anti_inflammatory;omega_3;high_protein
+Pasta,high,266,15,60,3,gluten,high_glycemic;low_glycemic
+Chicken Breast,medium,263,20,1,25,none,high_protein;high_iron
+Trout,medium,234,24,0,10,shellfish,anti_inflammatory;omega_3;high_protein
+Pinto Beans,high,149,18,16,2,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Peanuts,high,808,5,20,71,nuts,anti_inflammatory;high_protein
+Greek Yogurt,high,279,9,9,3,dairy,high_protein
+Walnuts,high,803,6,22,81,nuts,anti_inflammatory;high_protein
+Shrimp,medium,182,28,0,10,shellfish,anti_inflammatory;omega_3;high_protein
+Whole Wheat Bread,medium,257,8,52,5,gluten,high_glycemic;low_glycemic
+Sausage,medium,132,30,2,10,none,high_protein;high_iron
+Canned Grapes,low,84,0,17,1,none,anti_inflammatory;low_glycemic
+Greek Yogurt,low,172,19,3,24,dairy,high_protein
+Tuna,medium,204,18,0,17,shellfish,anti_inflammatory;omega_3;high_protein
+Coconut Oil,low,680,6,29,72,nuts,anti_inflammatory;high_protein
+Salmon,medium,229,21,1,5,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Celery,high,50,5,4,0,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Celery,low,28,4,6,0,none,anti_inflammatory;low_glycemic
+Bacon,medium,131,16,1,7,none,high_protein;high_iron
+Canned Kale,low,60,3,4,1,none,anti_inflammatory;low_glycemic
+Mozzarella Cheese,low,47,8,5,21,dairy,high_protein
+Couscous,medium,319,5,51,3,gluten,high_glycemic;low_glycemic
+Peanuts,medium,723,22,30,76,nuts,anti_inflammatory;high_protein
+Canned Kidney Beans,low,180,16,20,1,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Trout,high,114,20,1,10,shellfish,anti_inflammatory;omega_3;high_protein
+Organic Bell Pepper,high,21,4,12,0,none,anti_inflammatory;low_sodium;low_glycemic
+Butter,high,184,14,4,29,dairy,high_protein
+Canned Cod,low,180,18,1,17,shellfish,anti_inflammatory;omega_3;high_protein
+Shrimp,medium,171,26,0,6,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Tempeh,low,161,13,21,5,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Black Beans,medium,169,18,26,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Cashews,high,784,23,24,91,nuts,anti_inflammatory;high_protein
+Canned Chickpeas,low,128,16,26,6,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Sardines,medium,240,24,0,16,shellfish,anti_inflammatory;omega_3;high_protein
+Canned Salmon,low,188,30,0,20,shellfish,anti_inflammatory;omega_3;high_protein
+Bell Pepper,medium,22,2,7,0,none,anti_inflammatory;low_sodium;low_glycemic
+Shrimp,medium,221,26,1,3,shellfish,anti_inflammatory;omega_3;high_protein
+Pinto Beans,medium,144,10,30,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Tomato,low,43,2,12,0,none,anti_inflammatory;low_glycemic
+Kale,medium,57,2,10,1,none,anti_inflammatory;low_sodium;low_glycemic
+Canned Lemon,low,54,1,13,0,none,anti_inflammatory;low_glycemic
+Greek Yogurt,medium,256,23,9,35,dairy,high_protein
+Blueberries,medium,46,0,19,0,none,anti_inflammatory;low_glycemic
+Canned Pinto Beans,low,139,10,15,7,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Pasta,medium,312,8,29,2,gluten,high_glycemic;low_glycemic
+Bacon,low,171,19,2,5,none,high_protein;high_iron
+Edamame,high,140,18,30,9,soy,diabetes_friendly;high_protein;low_glycemic;high_iron
+Canned Trout,low,226,19,0,3,shellfish,anti_inflammatory;omega_3;high_protein
