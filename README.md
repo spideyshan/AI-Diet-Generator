@@ -183,3 +183,22 @@ This file is the final product. Your app.py loads this file to make predictions,
 Only patients.csv is used for training the machine learning model.
 
 patients.csv (Training Data): This file teaches the ML model (diet_model.pkl) to find patterns. It learns the rules (e.g., "a patient with diabetes needs a low-carb diet").
+
+Curl command : curl -X POST http://127.0.0.1:5000/generate_plan \
+-H "Content-Type: application/json" \
+-d '{
+    "age": 40,
+    "bmi": 28,
+    "disease": "Hypertension",
+    "ses": "medium",
+    "allergies": [],
+    "goal": "general_health"
+}'
+
+Creation of venv in windows:
+  python -m venv venv
+
+Activate the virtual environment in windows:
+          .\venv\Scripts\activate.bat
+
+
